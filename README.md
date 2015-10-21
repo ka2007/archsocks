@@ -3,6 +3,8 @@ SOCKS代理服务 - 免费加速Google搜索、Gmail、维基百科，加速其�
 
 # 下载
 
+!!!注意: 使用Chrome时和迅雷有冲突，必须卸载迅雷才能使用。
+
 [下载 Windows 版](http://104.245.8.176/files/archsocks-setup.exe)
 
 [下载 Linux / OS X 版](http://104.245.8.176/files/archsocks.tar.gz)
