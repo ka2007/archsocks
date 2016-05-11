@@ -3,11 +3,16 @@ SOCKS代理服务 - 免费加速Google搜索、Gmail、维基百科，加速其�
 
 # 下载
 
-!!!注意: 使用Chrome时和迅雷有冲突，必须卸载迅雷才能使用。
-
 [下载 Windows 版](http://104.245.8.176/files/archsocks-setup.exe)
 
 [下载 Linux / OS X 版](http://104.245.8.176/files/archsocks.tar.gz)
+
+在安装完成后，用浏览器打开网址 <http://127.0.0.1:9501> 即可查看设置教程/程序运行状态/当前流量用量/购买链接。
+
+Windows: *注意*使用Chrome时和迅雷有冲突，必须卸载迅雷才能使用。
+
+Windows: 如果之前已经安装过archsocks了，需要先卸载程序：打开开始菜单，找到archsocks程序组，点击里面的“卸载archsocks”菜单条目。
+如果还有问题就用进程管理器结束二个archsocks.exe后再安装。
 
 # 特性
 
@@ -18,7 +23,7 @@ SOCKS代理服务 - 免费加速Google搜索、Gmail、维基百科，加速其�
 
 # 价格
 
-*所有套餐都可以按月付，付款方式在客户端界面里*
+*所有套餐都可以按月付，付款方式在客户端界面里。*
 
 流量/周期 | Google/Gmail/维基百科 | 4GB/月 | 16GB/月 | 32GB/月 | 64GB/月
 ---------- | --------------------- | ------ | ------- | ------- | -------
@@ -32,12 +37,10 @@ SOCKS代理服务 - 免费加速Google搜索、Gmail、维基百科，加速其�
 
 ## Linux / OSX
 
-程序以Python源码形式发布，需要确保系统已安装[Python 3.4](https://www.python.org)。
+程序以Python源码形式发布，需要确保系统已安装[Python 3.4或以上版本](https://www.python.org)。
 解压下载的压缩文件后运行里面的archsocks文件以启动程序。
 
 # 客户端操作界面
-
-在安装完成后，用浏览器打开网址[http://127.0.0.1:9501](http://127.0.0.1:9501)即可查看设置教程/程序运行状态/当前流量用量/购买链接。
 
 ![截图](https://raw.githubusercontent.com/archsocks/archsocks/master/screenshot.png)
 
