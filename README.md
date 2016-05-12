@@ -1,5 +1,5 @@
 # archsocks
-SOCKS代理服务 - 免费加速Google搜索、Gmail、维基百科，加速其它网站只需少量费用。
+SOCKS代理服务 - 免费加速Google搜索、Gmail、维基百科、Feedly、Inoreader，加速其它网站只需少量费用。
 
 # 下载
 
