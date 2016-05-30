@@ -3,7 +3,7 @@ SOCKS代理服务 - 免费加速Google搜索、Gmail、维基百科、Feedly、I
 
 # 下载
 
-[下载 Windows 版](http://104.245.8.176/files/archsocks-setup.exe)
+[下载 Windows 版](http://104.238.236.63/files/archsocks-setup.exe)
 
 [下载 Linux / OS X 版](http://104.245.8.176/files/archsocks.tar.gz)
 
