@@ -3,9 +3,9 @@ SOCKS代理服务 - 免费加速Google搜索、Gmail、维基百科、Feedly、I
 
 # 下载
 
-[下载 Windows 版](http://45.32.81.57/files/archsocks-setup.exe)
+[下载 Windows 版](http://104.129.177.141/files/archsocks-setup.exe)
 
-[下载 Linux / OS X 版](http://45.32.81.57/files/archsocks.tar.gz)
+[下载 Linux / OS X 版](http://104.129.177.141/files/archsocks.tar.gz)
 
 在安装完成后，用浏览器打开网址 <http://127.0.0.1:9501> 即可查看设置教程/程序运行状态/当前流量用量/购买链接。
 
