@@ -1,18 +1,6 @@
 # archsocks
+
 SOCKS代理服务 - 免费加速Google搜索、Gmail、维基百科、Feedly、Inoreader，加速其它网站只需少量费用。
-
-# 下载
-
-[下载 Windows 版](http://104.129.177.141/files/archsocks-setup.exe)
-
-[下载 Linux / OS X 版](http://104.129.177.141/files/archsocks.tar.gz)
-
-在安装完成后，用浏览器打开网址 <http://127.0.0.1:9501> 即可查看设置教程/程序运行状态/当前流量用量/购买链接。
-
-Windows: *注意*使用Chrome时和迅雷有冲突，必须卸载迅雷才能使用。
-
-Windows: 如果之前已经安装过archsocks了，需要先卸载程序：打开开始菜单，找到archsocks程序组，点击里面的“卸载archsocks”菜单条目。
-如果还有问题就用进程管理器结束二个archsocks.exe后再安装。
 
 # 特性
 
@@ -25,15 +13,28 @@ Windows: 如果之前已经安装过archsocks了，需要先卸载程序：打�
 
 *所有套餐都可以按月付，付款方式在客户端界面里。*
 
-流量/周期 | Google/Gmail/维基百科 | 4GB/月 | 16GB/月 | 32GB/月 | 64GB/月
+流量/周期 | Google/Gmail/维基百科 | 12GB/月 | 24GB/月 | 48GB/月 | 96GB/月
 ---------- | --------------------- | ------ | ------- | ------- | -------
-价格      | 永久免费              | 2元/月 | 4元/月  | 6元/月  | 10元/月
+价格      | 永久免费              | 2元/月 | 3元/月  | 5元/月  | 8元/月
+
+# 下载
+
+[Windows 版](http://104.129.177.141/files/archsocks-setup.exe)
+
+[Linux / OS X 版](http://104.129.177.141/files/archsocks.tar.gz)
+
 
 # 安装
+
+在安装完成后，用浏览器打开网址 <http://127.0.0.1:9501> 即可查看设置教程/程序运行状态/当前流量用量/购买链接。
 
 ## Windows
 
 运行下载的.exe安装程序。安装完后服务会自动启动，同时添加自身到Windows启动组（会随Windows启动而自启动）。
+
+* 使用Chrome时可能和迅雷有冲突，如果无法正常使用需要卸载迅雷。
+* 之装之前，如果之前已经安装过archsocks了，需要先卸载程序：打开开始菜单，找到archsocks程序组，点击里面的“卸载archsocks”菜单条目。
+如果还有问题就用进程管理器结束二个archsocks.exe进程。
 
 ## Linux / OSX
 
