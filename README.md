@@ -1,13 +1,13 @@
 # archsocks
 
-SOCKS代理服务 - 免费加速Google搜索、Gmail、维基百科、Feedly、Inoreader，加速其它网站只需少量费用。
+SOCKS 代理服务 - 免费加速Google搜索、Gmail、维基百科、Feedly、Inoreader，加速其它网站只需少量费用。
 
 # 特性
 
-* 模拟HTTP流量: 完全模拟正常上网流量并采用80端口，无视企业防火墙。
+* 模拟 HTTP 流量: 完全模拟正常上网流量并采用80端口，无视企业防火墙。
 * 多节点: 拥有多个代理节点自动切换，上网更快更稳定。
 * 自动流量分类: 只对需要代理的网站使用代理，不会减慢国内网站速度，节省代理流量。
-* 本地SOCKS代理: 使用本地SOCKS代理接口方式，比VPN和SSH方式更方便和稳定。
+* 本地 SOCKS 代理: 使用本地 SOCKS 代理接口方式，比 VPN 和 SSH 方式更方便和稳定。
 
 # 价格
 
@@ -30,16 +30,16 @@ SOCKS代理服务 - 免费加速Google搜索、Gmail、维基百科、Feedly、I
 
 ## Windows
 
-运行下载的.exe安装程序。安装完后服务会自动启动，同时添加自身到Windows启动组（会随Windows启动而自启动）。
+运行下载的 `.exe` 安装程序。安装完后服务会自动启动，同时添加自身到 Windows 启动组（会随 Windows 启动而自启动）。
 
-* 使用Chrome时可能和迅雷有冲突，如果无法正常使用需要卸载迅雷。
-* 之装之前，如果之前已经安装过archsocks了，需要先卸载程序：打开开始菜单，找到archsocks程序组，点击里面的“卸载archsocks”菜单条目。
-如果还有问题就用进程管理器结束二个archsocks.exe进程。
+* 使用 Chrome 时可能和迅雷有冲突，如果无法正常使用需要卸载迅雷。
+* 之装之前，如果之前已经安装过 archsocks 了，需要先卸载程序：打开开始菜单，找到 archsocks 程序组，点击里面的“卸载 archsocks”菜单条目。
+如果还有问题就用进程管理器结束二个 `archsocks.exe` 进程。
 
-## Linux / OSX
+## Linux / OS X
 
-程序以Python源码形式发布，需要确保系统已安装[Python 3.4或以上版本](https://www.python.org)。
-解压下载的压缩文件后运行里面的archsocks文件以启动程序。
+程序以 Python 源码形式发布，需要确保系统已安装[Python 3.4或以上版本](https://www.python.org)。
+解压下载的压缩文件后运行里面的 `archsocks` 文件以启动程序。
 
 # 客户端操作界面
 
